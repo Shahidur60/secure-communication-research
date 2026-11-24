@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" width="560" height="440" role="img" aria-label="Research map: secure communication at the centre; identity and trust, human factors, AI agents and LLM privacy around it; formal verification, user studies, adversarial evaluation and prototypes as methods">
+  <rect x="0" y="0" width="560" height="440" rx="18" fill="#f7f5ee"/>
+  <g fill="none" stroke="#c9d2c8" stroke-width="1.2" stroke-dasharray="4 5">
+    <circle cx="280" cy="220" r="178"/>
+    <circle cx="280" cy="220" r="110"/>
+  </g>
+  <g stroke="#1b704f" stroke-width="1.4" opacity="0.45">
+    <path d="M280 220 L170 132"/><path d="M280 220 L390 132"/>
+    <path d="M280 220 L170 308"/><path d="M280 220 L390 308"/>
+  </g>
+  <circle cx="280" cy="220" r="52" fill="#1b704f"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="280" y="216" font-size="12.5" font-weight="700" fill="#f9faf4">Secure</text>
+    <text x="280" y="234" font-size="12.5" font-weight="700" fill="#f9faf4">communication</text>
+    <g fill="#fffefa" stroke="#1b704f" stroke-width="1.3">
+      <rect x="98" y="106" width="144" height="52" rx="10"/>
+      <rect x="318" y="106" width="144" height="52" rx="10"/>
+      <rect x="98" y="282" width="144" height="52" rx="10"/>
+      <rect x="318" y="282" width="144" height="52" rx="10"/>
+    </g>
+    <g font-size="13.5" font-weight="700" fill="#203026">
+      <text x="170" y="128">Identity &amp; trust</text>
+      <text x="390" y="128">Human factors</text>
+      <text x="170" y="304">AI agents</text>
+      <text x="390" y="304">LLM privacy</text>
+    </g>
+    <g font-size="10.5" fill="#55685c">
+      <text x="170" y="146">who is really there</text>
+      <text x="390" y="146">decisions under attack</text>
+      <text x="170" y="322">AI as a security actor</text>
+      <text x="390" y="322">what assistants learn</text>
+    </g>
+    <g font-family="Consolas, Menlo, monospace" font-size="11.5" fill="#b65c35">
+      <text x="280" y="32">Formal verification</text>
+      <text x="280" y="420">Adversarial evaluation</text>
+      <text x="62" y="224" text-anchor="start">User studies</text>
+      <text x="498" y="224" text-anchor="end">Prototypes</text>
+    </g>
+  </g>
+</svg>
