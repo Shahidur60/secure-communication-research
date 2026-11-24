@@ -57,6 +57,10 @@ Work in progress is described here only at this level. Details, code, and data a
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=FexbTskAAAAJ).
 
+## Open projects
+
+- **[Agentic E2EE Lab](https://github.com/Shahidur60/agentic-e2ee-lab)**: a working end-to-end encrypted messenger with an AI assistant inside, attacked with prompt injection hidden in encrypted messages. Compares three defenses across 675 runs, with confidence intervals and charts. Python, with tests.
+
 ## Open tools in this repository
 
 - **[judge-agreement](tools/judge-agreement)**: checks whether an automated grader, such as an LLM judge, actually agrees with human labels, using Cohen's kappa with bootstrap confidence intervals. Standard library only, with tests.
